@@ -11,4 +11,5 @@ I am Abdusalom an iOS developer. I am passionate about the Swift programming lan
 - 💬 Ask me about about swift
 - 📫 How to reach me: via abdusalom_hojiev@mail.ru
 
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdusalomH)](https://github.com/anuraghazra/github-readme-stats)
+
