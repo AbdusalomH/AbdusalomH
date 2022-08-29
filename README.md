@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am Ben an iOS developer. I am passionate about the Swift programming language. You can find several mini projects listed on repros. Apart from iOS development I am interested in skiiing, learning new things and web technologies.
+I am Abdusalom an iOS developer. I am passionate about the Swift programming language. You can find several mini projects listed on repros. Apart from iOS development I am interested in skiiing, learning new things and web technologies.
 
 
 - 🔭 I’m currently working on my own prohect
