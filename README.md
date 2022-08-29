@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image title](https://rushter.com/counter.svg)
+
 
 I am Abdusalom an iOS developer. I am passionate about the Swift programming language. You can find several mini projects listed on repros. Apart from iOS development I am interested in skiiing, learning new things and web technologies.
 
