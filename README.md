@@ -1,7 +1,7 @@
 ### Hi there 👋
 
- //[![HitCount](https://hits.dwyl.com/AbdusalomH/vk-client.svg?style=flat-square)](http://hits.dwyl.com/AbdusalomH/vk-client)
- ![](https://komarev.com/ghpvc/?AbdusalomH=AbdusalomH)
+  ![](https://komarev.com/ghpvc/?username=AbdusalomH)
+
 
 
 
@@ -10,10 +10,7 @@ I am Abdusalom an iOS developer. I am passionate about the Swift programming lan
 
 
 - 🔭 I’m currently working on my own project
-- 🌱 I’m currently learning SwiftML
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about about swift
+- 🌱 I’m currently learning Swift development
 - 📫 How to reach me: via akhodjiev@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdusalomH)](https://github.com/anuraghazra/github-readme-stats)
