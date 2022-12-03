@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  ![](https://komarev.com/ghpvc/?username=AbdusalomH)
+
 
 
 
@@ -14,4 +14,6 @@ I am Abdusalom an iOS developer. I am passionate about the Swift programming lan
 - 📫 How to reach me: via akhodjiev@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdusalomH)](https://github.com/anuraghazra/github-readme-stats)
+
+  ![](https://komarev.com/ghpvc/?username=AbdusalomH)
 
