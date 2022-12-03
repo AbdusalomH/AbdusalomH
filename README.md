@@ -1,7 +1,7 @@
 ### Hi there 👋
 
- [![HitCount](https://hits.dwyl.com/AbdusalomH/vk-client.svg?style=flat-square)](http://hits.dwyl.com/AbdusalomH/vk-client)
- ![](https://komarev.com/ghpvc/?AbdusalomH=your-github-AbdusalomH)
+ //[![HitCount](https://hits.dwyl.com/AbdusalomH/vk-client.svg?style=flat-square)](http://hits.dwyl.com/AbdusalomH/vk-client)
+ ![](https://komarev.com/ghpvc/?AbdusalomH=AbdusalomH)
 
 
 
